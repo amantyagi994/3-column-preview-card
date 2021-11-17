@@ -93,6 +93,7 @@ body {
 .preview-card .btn-wrapper .btn:hover {
 	background-color: transparent !important;
 	color: white;
+	border: 1px solid white;
 }
 
 .attribution {
